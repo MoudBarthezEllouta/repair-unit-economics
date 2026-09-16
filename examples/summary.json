@@ -1,0 +1,34 @@
+{
+  "data": "fully synthetic",
+  "seed": 17,
+  "cases": 1200,
+  "events": 1432,
+  "routes": [
+    {
+      "route": "pilot",
+      "cases": 589,
+      "sellable_units": 503,
+      "total_cost_cents": 1423447,
+      "repeat_repair_units": 166,
+      "scrapped_cost_cents": 218816,
+      "yield_rate": 0.8539898132,
+      "cost_per_sellable_eur": 28.2991451292,
+      "cost_per_started_eur": 24.1671816638,
+      "repeat_repair_rate": 0.2818336163,
+      "decision": "NO_GO_QUALITY"
+    },
+    {
+      "route": "standard",
+      "cases": 611,
+      "sellable_units": 578,
+      "total_cost_cents": 1656610,
+      "repeat_repair_units": 66,
+      "scrapped_cost_cents": 97914,
+      "yield_rate": 0.94599018,
+      "cost_per_sellable_eur": 28.6610726644,
+      "cost_per_started_eur": 27.1130932897,
+      "repeat_repair_rate": 0.1080196399,
+      "decision": "ELIGIBLE_FOR_CONTROLLED_PILOT"
+    }
+  ]
+}

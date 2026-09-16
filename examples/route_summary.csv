@@ -1,0 +1,3 @@
+route,cases,sellable_units,total_cost_cents,repeat_repair_units,scrapped_cost_cents,yield_rate,cost_per_sellable_eur,cost_per_started_eur,repeat_repair_rate,decision
+pilot,589,503,1423447,166,218816,0.8539898132427843,28.29914512922465,24.16718166383701,0.28183361629881154,NO_GO_QUALITY
+standard,611,578,1656610,66,97914,0.9459901800327333,28.66107266435986,27.113093289689033,0.10801963993453355,ELIGIBLE_FOR_CONTROLLED_PILOT
