@@ -1,0 +1,1 @@
+"""Synthetic operations portfolio demonstration."""
