@@ -104,5 +104,4 @@ Production adoption would require validated source mappings, cohort maturity rul
 confidence intervals, model/failure-mix adjustment and a controlled experiment.
 It operates in memory; the demo is not a claim of warehouse-scale benchmarking.
 
-Developed with AI assistance. Business framing and implementation are separated
-from the employer's data and systems. MIT licensed.
+Business framing and implementation are separated from the employer's data and systems. MIT licensed.
